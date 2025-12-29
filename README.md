@@ -16,18 +16,18 @@
 
 ## Структура
 eTOPSIS/
-├── code/                    # Исходный код (3 файла)
-│   ├── extended_topsis.py  # Основной алгоритм ExtendedTOPSIS
-│   ├── table_generator.py  # Генератор таблиц TablesGenerator  
-│   └── main.py             # Точка входа (простой запуск)
-├── data/                   # Примеры данных
-│   ├── example1.json      # Данные из статьи [Yue, 2011]
-│   ├── example2.json      # Выбор смартфона (простой пример)
-│   └── example3.json      # Выбор датасета для SQL-to-text
-├── results/               # Результаты
-├── requirements.txt       # Зависимости: numpy, pandas, openpyxl
-├── LICENSE               # Лицензия MIT
-└── README.md            # Этот файл
+- code/                    # Исходный код (3 файла)
+  - extended_topsis.py  # Основной алгоритм ExtendedTOPSIS
+  - table_generator.py  # Генератор таблиц TablesGenerator  
+  - main.py             # Точка входа (простой запуск)
+- data/                   # Примеры данных
+  - example1.json      # Данные из статьи [Yue, 2011]
+  - example2.json      # Выбор смартфона (простой пример)
+  - example3.json      # Выбор датасета для SQL-to-text
+- results/               # Результаты
+- requirements.txt       # Зависимости: numpy, pandas, openpyxl
+- LICENSE               # Лицензия MIT
+- README.md            # Этот файл
 
 ## Обзор
 
