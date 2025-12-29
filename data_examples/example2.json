@@ -1,0 +1,46 @@
+{
+  "alternatives": [
+    "iPhone 15 Pro",
+    "Poco X7 Pro", 
+    "Samsung Galaxy A26"
+  ],
+  "criteria": [
+    {
+      "name": "Camera",
+      "type": "positive"
+    },
+    {
+      "name": "Battery",
+      "type": "positive"
+    }
+  ],
+  "dms": [
+    {
+      "id": "Expert1",
+      "weights": [0.6, 0.4],
+      "scores": [
+        [9, 7],
+        [7, 9], 
+        [6, 8]
+      ]
+    },
+    {
+      "id": "Expert2",
+      "weights": [0.5, 0.5],
+      "scores": [
+        [8, 6],
+        [8, 8],
+        [7, 7]
+      ]
+    },
+    {
+      "id": "Expert3", 
+      "weights": [0.4, 0.6],
+      "scores": [
+        [9, 6],
+        [7, 9],
+        [6, 8]
+      ]
+    }
+  ]
+}
