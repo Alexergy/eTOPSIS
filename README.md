@@ -1,8 +1,5 @@
 # Расширенный метод TOPSIS для группового принятия решений
 
-[![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-
 ## О проекте
 
 Исследовательский прототип реализации расширенного метода TOPSIS для анализа и сравнения подходов к групповому приинятию решений.
