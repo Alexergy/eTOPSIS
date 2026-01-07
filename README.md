@@ -38,6 +38,7 @@
 ### Установка зависимостей
 ```bash
 pip install -r prototype/requirements.txt
+```bash
 
 ## Лицензия (License)
 Проект распространяется под лицензией **GPL-3.0**, полный текст которой находится в файле LICENSE.
