@@ -31,9 +31,11 @@
 
 ## Быстрый старт
 Варианты использования скрипта для eTOPSIS:
-- _python prototype/run_example.py _- запустит example1 по умолчанию.
+```bash
+- _python prototype/run_example.py_ - запустит example1 по умолчанию.
 - _python prototype/run_example.py example2_ - запустит пример выбора смартфона (example2).
 - _python prototype/run_example.py example3_ - запустит основной пример выбора датасета (example3).
+```
 
 ### Установка зависимостей
 ```bash
