@@ -8,13 +8,16 @@ import numpy as np
 import pandas as pd
 from typing import List, Dict, Tuple
 from openpyxl.styles import Alignment, Font
+
+from extended_topsis import ExtendedTOPSIS
+from table_generator import TablesGenerator
     
 def main():
     # Название файла с примером
     file_name = "example1"
   
     # Пример использования
-    solver = ExtendedTOPSIS(f'data/{file_name}.json')
+    solver = ExtendedTOPSIS(f'research/testing_data/{file_name}.json')
     results = solver.solve()
    
     # Сохранение результатов в JSON
@@ -29,3 +32,6 @@ def main():
 
     # Сохранение таблиц в Excel
     table_generator.save_all_tables_to_excel(f'{file_name}_all_tables.xlsx')
+
+if __name__ == "__main__":
+    main()
