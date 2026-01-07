@@ -2,11 +2,13 @@
 
 ## О проекте (About)
 
-Исследовательский прототип реализации расширенного метода TOPSIS (eTOPSIS) для анализа и сравнения подходов к групповому приинятию решений.
+*Research prototype of the Extended TOPSIS method for analyzing and comparing group decision-making approaches.*
+
+Исследовательский прототип реализации расширенного метода TOPSIS (eTOPSIS) для анализа и сравнения подходов к групповому принятию решений.
 
 Проект реализован во время подготовки Алекандры С. Носковой работы в рамках тестирования программного обеспечения в Институте компьютерных наук и кибербезопасности СПбПУ (ИКНК СПбПУ).
 
-Метод основан на статье: Yue Z. "A method for group decision-making based on determining weights of decision makers using TOPSIS" (2011).
+Метод основан на статье: Yue Z. "A method for group decision-making based on determining weights of decision makers using TOPSIS" // Applied Mathematical Modelling. – 2011. – Vol. 35, no. 4. – P. 1926–1936. – DOI: 10.1016/j.apm.2010.11.001.
 
 ## Авторы и участники (Authors and contributors)
 - Основной автор Александра С. Носкова, студент ИКНК СПбПУ.
